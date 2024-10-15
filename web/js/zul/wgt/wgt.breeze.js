@@ -1,0 +1,1 @@
+zk.afterLoad("zul.wgt",function(){zul.wgt.PopupRenderer.isFrameRequired=function(a){return false}});

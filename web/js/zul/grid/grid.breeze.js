@@ -1,0 +1,1 @@
+zk.afterLoad("zul.grid",function(){zul.grid.Renderer.updateColumnMenuButton=function(b){var c=b.$n(),a;if(a=b.$n("btn")){a.style.height=zk.ie6_||zk.ie7_?c.offsetHeight-1+"px":c.offsetHeight+"px"}}});
